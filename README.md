@@ -1,5 +1,5 @@
 ### About me
-* **Research:** Studying 3DGS and Computer Graphics @ **MUST**.
+* **Research:** Studying Computer Graphics & Computer Vision @ **MUST**.
 
 ---
 - **X / Twitter:** [@nintrees](https://twitter.com/nintrees)
