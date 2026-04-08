@@ -1,5 +1,5 @@
 ### About me
-* **Research:** Studying Computer Graphics & Computer Vision @ **MUST**.
+* **Research:** Studying Computer Graphics & Computer Vision @ **[MUST](https://www.must.edu.mo/)**.
 
 ---
 - **X / Twitter:** [@nintrees](https://twitter.com/nintrees)
