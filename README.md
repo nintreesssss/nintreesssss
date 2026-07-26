@@ -1,5 +1,5 @@
 ### About me
-* **Research:** Studying Computer Graphics & Computer Vision @ **[MUST](https://www.must.edu.mo/)**.
+**Research:** Studying Computer Graphics & 3D Vision @ **[MUST](https://www.must.edu.mo/)**.
 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
